@@ -1,17 +1,15 @@
 name: flutter_web_scraper
 description: A new Flutter project.
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  web_scraper: ^0.0.9
-  http: ^0.12.1
-  html: ^0.14.0+3
-  cupertino_icons: ^1.0.0
+  web_scraper: ^0.1.4
+  cupertino_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:

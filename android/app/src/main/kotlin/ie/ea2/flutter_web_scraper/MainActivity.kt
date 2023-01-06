@@ -1,4 +1,4 @@
-package ir.ea2.flutter_web_scraper
+package ie.ea2.flutter_web_scraper
 
 import io.flutter.embedding.android.FlutterActivity
 
